@@ -1,9 +1,7 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
-
 ## AIM: 
 To create the solid model from given drawing and section the solid model
-
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
 2. Windows 10
@@ -42,8 +40,6 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
-
+![Screenshot 2023-10-03 103234](https://github.com/roshiniRK/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/118956165/d09a8874-bfcf-4488-9c3d-9d3f6900dbeb)
 ## RESULT:
 Thus, the cut section for solid model is created.
-
-
